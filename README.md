@@ -9,7 +9,7 @@ https://maven.google.com/com/android/support/leanback-v17/27.1.1/leanback-v17-27
 - [dandar3/android-support-core-ui](https://github.com/dandar3/android-support-core-ui/tree/27.1.1)
 - [dandar3/android-support-media-compat](https://github.com/dandar3/android-support-media-compat/tree/27.1.1)
 - [dandar3/android-support-fragment](https://github.com/dandar3/android-support-fragment/tree/27.1.1)
-- [dandar3/android-support-v7-recycleview](https://github.com/dandar3/android-support-v7-recycleview/tree/27.1.1)
+- [dandar3/android-support-v7-recyclerview](https://github.com/dandar3/android-support-v7-recyclerview/tree/27.1.1)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html#27-1-1
