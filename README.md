@@ -1,4 +1,4 @@
-## android-support-leanback-v17
+## android-support-v17-leanback
 
 Eclipse library project based on:<br/>
 https://maven.google.com/com/android/support/leanback-v17/27.1.1/leanback-v17-27.1.1.aar
