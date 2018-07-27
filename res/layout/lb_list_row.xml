@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
- Copyright (C) 2014 The Android Open Source Project
+     Copyright (C) 2014 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,11 +14,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="android.support.v17.leanback" 
-    android:versionCode="2711"
-    android:versionName="27.1.1">
 
-    <uses-sdk android:minSdkVersion="17" />
-
-</manifest>
+<android.support.v17.leanback.widget.HorizontalGridView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:lb="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/row_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clipToPadding="false"
+    lb:rowHeight="wrap_content"
+    style="?attr/rowHorizontalGridStyle" />
